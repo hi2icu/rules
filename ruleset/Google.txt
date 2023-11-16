@@ -1,6 +1,8 @@
 payload:
   - '+.gmail'
   - '+.google'
+  - '+.google.com'
+  - '+.gmail.com'
   - '+.1e100.net'
   - '+.2mdn.net'
   - '+.app-measurement.net'
