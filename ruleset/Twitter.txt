@@ -1,5 +1,5 @@
 payload:
-  - '+.twitter'
+  - '*twitter'
   - '+.periscope.tv'
   - '+.pscp.tv'
   - '+.t.co'

@@ -1,6 +1,6 @@
 payload:
-  - '+.tiktokcdn'
-  - '+.tiktok'
+  - '*tiktokcdn'
+  - '*tiktok'
   - '+.byteoversea.com'
   - '+.ibytedtos.com'
   - '+.ipstatp.com'

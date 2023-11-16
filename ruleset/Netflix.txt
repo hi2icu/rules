@@ -1,8 +1,8 @@
 payload:
   - 'netflix.com.edgesuite.net'
-  - '+.apiproxy-device-prod-nlb-'
-  - '+.dualstack.apiproxy-'
-  - '+.netflixdnstest'
+  - '*apiproxy-device-prod-nlb-'
+  - '*dualstack.apiproxy-'
+  - '*netflixdnstest'
   - '+.fast.com'
   - '+.netflix.com'
   - '+.netflix.net'
