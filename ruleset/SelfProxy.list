@@ -1,0 +1,6 @@
+# 内容：自定义代理
+DOMAIN-SUFFIX,nvidia.com
+DOMAIN,login.nvgs.nvidia.cn
+DOMAIN-SUFFIX,nvidia.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,amazonaws.com
