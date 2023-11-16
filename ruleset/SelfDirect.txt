@@ -1,0 +1,5 @@
+payload:
+  - 'international-gfe.download.nvidia.com'
+  - '+.download.nvidia.com'
+  - 'vps.com'
+  - 'v.ps'

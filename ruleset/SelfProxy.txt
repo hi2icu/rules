@@ -1,0 +1,6 @@
+payload:
+  - 'login.nvgs.nvidia.cn'
+  - '+.nvidia.com'
+  - '+.nvidia.com'
+  - '+.live.com'
+  - '+.amazonaws.com'
