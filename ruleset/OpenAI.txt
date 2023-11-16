@@ -1,0 +1,17 @@
+payload:
+  - DOMAIN-KEYWORD,openai
+  - '+.auth0.com'
+  - '+.challenges.cloudflare.com'
+  - '+.client-api.arkoselabs.com'
+  - '+.events.statsigapi.net'
+  - '+.featuregates.org'
+  - '+.identrust.com'
+  - '+.intercom.io'
+  - '+.intercomcdn.com'
+  - '+.openai.com'
+  - '+.openaiapi-site.azureedge.net'
+  - '+.sentry.io'
+  - '+.stripe.com'
+  - '+.stripe.com'
+  - '+.oaistatic.com'
+  - '+.oaiusercontent.com'
