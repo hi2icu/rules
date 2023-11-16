@@ -1,5 +1,4 @@
 payload:
-  - DOMAIN-KEYWORD,openai
   - '+.auth0.com'
   - '+.challenges.cloudflare.com'
   - '+.client-api.arkoselabs.com'
