@@ -18,3 +18,4 @@ payload:
   - 'steamstore-a.akamaihd.net'
   - 'steamusercontent-a.akamaihd.net'
   - 'steamuserimages-a.akamaihd.net'
+  - 'steampipe.akamaized.net'
