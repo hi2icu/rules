@@ -1,5 +1,6 @@
 payload:
   - 'international-gfe.download.nvidia.com'
+  - 'static.cloudflareinsights.com'
   - '+.download.nvidia.com'
   - 'vps.com'
   - 'v.ps'
