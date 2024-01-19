@@ -5,3 +5,5 @@ payload:
   - 'v.ps'
   - '+.spaceship.com'
   - 'spaceship.com'
+  - '+.spaceship-cdn.com'
+  - 'spaceship-cdn.com'
