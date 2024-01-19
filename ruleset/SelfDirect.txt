@@ -3,3 +3,5 @@ payload:
   - '+.download.nvidia.com'
   - 'vps.com'
   - 'v.ps'
+  - '+.spaceship.com'
+  - 'spaceship.com'
