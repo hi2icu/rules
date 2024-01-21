@@ -4,3 +4,4 @@ payload:
   - '+.nvidia.com'
   - '+.live.com'
   - '+.amazonaws.com'
+  - '+.98t.la'
