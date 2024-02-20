@@ -2,3 +2,4 @@ payload:
   - '+.bing.com'
   - 'bing.com'
   - 'bard.google.com'
+  - 'gemini.google.com'
