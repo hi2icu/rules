@@ -3,3 +3,7 @@ payload:
   - 'bing.com'
   - 'bard.google.com'
   - 'gemini.google.com'
+  - '+.anthropic.com'
+  - 'anthropic.com'
+  - '+.claude.ai'
+  - 'claude.ai'
