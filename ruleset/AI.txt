@@ -7,3 +7,7 @@ payload:
   - 'anthropic.com'
   - '+.claude.ai'
   - 'claude.ai'
+  - '+.slack.com'
+  - 'slack.com'
+  - '+.slack-edge.com'
+  - 'slack-edge.com'
