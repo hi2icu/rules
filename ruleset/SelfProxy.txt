@@ -5,5 +5,5 @@ payload:
   - '+.live.com'
   - '+.amazonaws.com'
   - '+.98t.la'
-  - 'ssl.gstatic.com'
+  - '+.gstatic.com'
   - '+.google.com'
