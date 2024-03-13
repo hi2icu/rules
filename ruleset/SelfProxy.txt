@@ -7,3 +7,4 @@ payload:
   - '+.98t.la'
   - '+.gstatic.com'
   - '+.google.com'
+  - '+.googleapis.com'
